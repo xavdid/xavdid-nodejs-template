@@ -1,6 +1,6 @@
 {
   "version": "0.0.0",
-  "name": "xavdid-node-template",
+  "name": "xavdid-ts-template",
   "description": "",
   "main": "lib/index.js",
   "typings": "lib/index.d.ts",
